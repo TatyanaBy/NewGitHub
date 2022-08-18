@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.exe
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.deps.json
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.dll
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.pdb
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.dll
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\refint\Example006_ConditionIfElse.dll
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.pdb
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example006_ConditionIfElse\obj\Debug\net6.0\ref\Example006_ConditionIfElse.dll
