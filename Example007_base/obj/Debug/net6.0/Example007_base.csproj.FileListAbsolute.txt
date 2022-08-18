@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\bin\Debug\net6.0\Example007_base.exe
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\bin\Debug\net6.0\Example007_base.deps.json
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\bin\Debug\net6.0\Example007_base.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\bin\Debug\net6.0\Example007_base.dll
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\bin\Debug\net6.0\Example007_base.pdb
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.dll
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\refint\Example007_base.dll
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.pdb
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\Example007_base.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Desktop\Язык С#\Example007_base\obj\Debug\net6.0\ref\Example007_base.dll
